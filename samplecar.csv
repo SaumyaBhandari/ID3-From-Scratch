@@ -1,0 +1,11 @@
+Type,Price,Buy
+SUV,H,No
+HB,H,No
+HB,H,Yes
+HB,L,No
+SEDAN,H,Yes
+SEDAN,L,Yes
+SUV,L,No
+SEDAN,H,Yes
+HB,L,Yes
+SUV,Hot,Yes
